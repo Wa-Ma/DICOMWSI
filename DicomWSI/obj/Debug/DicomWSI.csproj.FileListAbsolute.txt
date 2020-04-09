@@ -1,0 +1,32 @@
+F:\Visual Studio 2015\Projects\DicomWSI\DicomWSI\obj\Debug\DicomWSI.csprojAssemblyReference.cache
+F:\Visual Studio 2015\Projects\DicomWSI\DicomWSI\obj\Debug\DicomWSI.MainForm.resources
+F:\Visual Studio 2015\Projects\DicomWSI\DicomWSI\obj\Debug\DicomWSI.Properties.Resources.resources
+F:\Visual Studio 2015\Projects\DicomWSI\DicomWSI\obj\Debug\DicomWSI.csproj.GenerateResource.cache
+F:\Visual Studio 2015\Projects\DicomWSI\DicomWSI\obj\Debug\DicomWSI.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2015\Projects\DicomWSI\DicomWSI\bin\Debug\DicomWSI.exe.config
+F:\Visual Studio 2015\Projects\DicomWSI\DicomWSI\bin\Debug\DicomWSI.exe
+F:\Visual Studio 2015\Projects\DicomWSI\DicomWSI\bin\Debug\DicomWSI.pdb
+F:\Visual Studio 2015\Projects\DicomWSI\DicomWSI\bin\Debug\Dicom.Core.dll
+F:\Visual Studio 2015\Projects\DicomWSI\DicomWSI\bin\Debug\log4net.dll
+F:\Visual Studio 2015\Projects\DicomWSI\DicomWSI\bin\Debug\Dicom.Core.pdb
+F:\Visual Studio 2015\Projects\DicomWSI\DicomWSI\bin\Debug\Dicom.Core.xml
+F:\Visual Studio 2015\Projects\DicomWSI\DicomWSI\bin\Debug\log4net.xml
+F:\Visual Studio 2015\Projects\DicomWSI\DicomWSI\obj\Debug\DicomWSI.csproj.CopyComplete
+F:\Visual Studio 2015\Projects\DicomWSI\DicomWSI\obj\Debug\DicomWSI.exe
+F:\Visual Studio 2015\Projects\DicomWSI\DicomWSI\obj\Debug\DicomWSI.pdb
+G:\作业备胎\陈添\DicomWSI\DicomWSI\bin\Debug\DicomWSI.exe.config
+G:\作业备胎\陈添\DicomWSI\DicomWSI\bin\Debug\DicomWSI.exe
+G:\作业备胎\陈添\DicomWSI\DicomWSI\bin\Debug\DicomWSI.pdb
+G:\作业备胎\陈添\DicomWSI\DicomWSI\bin\Debug\Dicom.Core.dll
+G:\作业备胎\陈添\DicomWSI\DicomWSI\bin\Debug\log4net.dll
+G:\作业备胎\陈添\DicomWSI\DicomWSI\bin\Debug\Dicom.Core.pdb
+G:\作业备胎\陈添\DicomWSI\DicomWSI\bin\Debug\Dicom.Core.xml
+G:\作业备胎\陈添\DicomWSI\DicomWSI\bin\Debug\log4net.xml
+G:\作业备胎\陈添\DicomWSI\DicomWSI\obj\Debug\DicomWSI.MainForm.resources
+G:\作业备胎\陈添\DicomWSI\DicomWSI\obj\Debug\DicomWSI.Properties.Resources.resources
+G:\作业备胎\陈添\DicomWSI\DicomWSI\obj\Debug\DicomWSI.csproj.GenerateResource.cache
+G:\作业备胎\陈添\DicomWSI\DicomWSI\obj\Debug\DicomWSI.csproj.CoreCompileInputs.cache
+G:\作业备胎\陈添\DicomWSI\DicomWSI\obj\Debug\DicomWSI.csproj.CopyComplete
+G:\作业备胎\陈添\DicomWSI\DicomWSI\obj\Debug\DicomWSI.exe
+G:\作业备胎\陈添\DicomWSI\DicomWSI\obj\Debug\DicomWSI.pdb
+G:\作业备胎\陈添\DicomWSI\DicomWSI\obj\Debug\DicomWSI.csprojAssemblyReference.cache

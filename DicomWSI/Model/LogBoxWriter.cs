@@ -1,0 +1,52 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.IO;
+using System.Windows.Forms;
+
+namespace DicomWSI.Model
+{
+    class LogBoxWriter : TextWriter
+    {
+        TextBox textBox;
+        delegate void WriteFunc(string value);
+        WriteFunc write;
+        WriteFunc writeLine;
+
+        public LogBoxWriter(TextBox textBox)
+        {
+            this.textBox = textBox;
+            write = Write;
+            writeLine = WriteLine;
+        }
+
+
+        // 使用UTF-16避免不必要的编码转换
+        public override Encoding Encoding => Encoding.Unicode;
+
+
+        // 最低限度需要重写的方法
+        public override void Write(string value)
+        {
+            if (textBox.InvokeRequired)
+                textBox.BeginInvoke(write, value);
+            else
+                textBox.AppendText(value);
+        }
+
+
+        // 为提高效率直接处理一行的输出
+        public override void WriteLine(string value)
+        {
+            if (textBox.InvokeRequired)
+                textBox.BeginInvoke(writeLine, value);
+            else
+            {
+                textBox.AppendText(value);
+                textBox.AppendText(NewLine);
+            }
+        }
+    }
+}

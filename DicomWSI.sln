@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DicomWSI", "DicomWSI\DicomWSI.csproj", "{57DD81C4-F99C-493E-80DB-010C30A0196D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57DD81C4-F99C-493E-80DB-010C30A0196D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57DD81C4-F99C-493E-80DB-010C30A0196D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57DD81C4-F99C-493E-80DB-010C30A0196D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57DD81C4-F99C-493E-80DB-010C30A0196D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6028780-F0FD-4CAB-883A-94A8F3DC720F}
+	EndGlobalSection
+EndGlobal
