@@ -22,7 +22,7 @@ DICOMWSI
 -------
 图片文件位于DicomWSI\DicomWSI\bin\Debug\DicomWSIStorage中
 
-已提供了zip文件，可以在https://github.com/Wa-Ma/DICOMWSI/releases下载查看。
+已提供了zip文件，可以在https://github.com/Wa-Ma/DICOMWSI/releases 下载查看。
 
 如要加入新的图片，课复制在此文件夹下，并添加入数据库中
 
