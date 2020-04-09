@@ -1,6 +1,7 @@
 DICOMWSI
 =======
 这是DICOMWSI图像的服务端，需搭配WSI图像显示的客户端一起食用\^V^
+
 客户端：https://github.com/Wa-Ma/WSILIB
 
 功能：
@@ -19,7 +20,9 @@ DICOMWSI
 
 图片文件
 -------
-图片文件位于DicomWSI\DicomWSI\bin\Debug\DicomWSIStorage中，已提供了zip文件，可以下载查看。
+图片文件位于DicomWSI\DicomWSI\bin\Debug\DicomWSIStorage中
+
+已提供了zip文件，可以在https://github.com/Wa-Ma/DICOMWSI/releases下载查看。
 
 如要加入新的图片，课复制在此文件夹下，并添加入数据库中
 
